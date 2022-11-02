@@ -13,9 +13,3 @@ permalink: /
 </p>
 
 
-
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>
